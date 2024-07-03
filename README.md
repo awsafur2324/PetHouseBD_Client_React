@@ -1,8 +1,23 @@
-# React + Vite
+# Project Name - Pet House BD
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Live Link - https://66797bb9235f9bb1d8a5c340--splendorous-trifle-6f2238.netlify.app/
 
-Currently, two official plugins are available:
+# Feature - 
+1. In the platform users can set pets for Adoption and donation campaigns
+2. Authentic users can Adopt any pets and also donate to any active campaigns
+3. The user can manage his/her added pets and donation campaigns
+4. The user can also manage and see who requests for adoption and who donates to his campaign
+5. The user can request a refund.
+6. Admin can manage all users link bans or make Admin and see the status of users
+7. Admin can manage all added pets and donations also.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Technology -
+1. React Quil
+2. Material Tailwind
+3. formik
+4. React Loading skeletons
+5. React Select
+6. date-fns
+7. Date Picker
+8. React Count Up
+9. firebase
