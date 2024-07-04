@@ -26,14 +26,6 @@ A comprehensive web application for managing pet adoptions and donations. This p
 
 # Installation -
 1. clone the repo
-   **Ctrl+B** makes the selected text bold by wrapping it with `**`.
-
-**Ctrl+I** makes the selected text italic by wrapping it with `_`.
-
-**Ctrl+Shift+C** wraps the selected text in a code block.
-
-**Ctrl+Space** checks and unchecks task list items.
-
 ```markdown
-- [x] task list item
+- [x] git clone 
 ```
