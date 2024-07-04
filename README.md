@@ -27,5 +27,15 @@ A comprehensive web application for managing pet adoptions and donations. This p
 # Installation -
 1. clone the repo
 ```markdown
-- [x] git clone 
+git clone https://github.com/awsafur2324/PetHouseBD_Client_React.git
 ```
+2. Now run the file location on the command prompt and install npm
+```markdown
+npm i
+```
+3. Now add a .env file with Firebase authentication data and imgbb Api
+4. Run the file and enjoy
+```markdown
+npm run dev
+```
+
