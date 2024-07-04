@@ -1,6 +1,8 @@
 # Project Name - Pet House BD
-
 # Live Link - https://66797bb9235f9bb1d8a5c340--splendorous-trifle-6f2238.netlify.app/
+
+# Overview -
+A comprehensive web application for managing pet adoptions and donations. This platform allows users to browse available pets, submit adoption requests, and make donations to support the shelter.
 
 # Feature - 
 1. In the platform users can set pets for Adoption and donation campaigns
@@ -21,3 +23,17 @@
 7. Date Picker
 8. React Count Up
 9. firebase
+
+# Installation -
+1. clone the repo
+   **Ctrl+B** makes the selected text bold by wrapping it with `**`.
+
+**Ctrl+I** makes the selected text italic by wrapping it with `_`.
+
+**Ctrl+Shift+C** wraps the selected text in a code block.
+
+**Ctrl+Space** checks and unchecks task list items.
+
+```markdown
+- [x] task list item
+```
